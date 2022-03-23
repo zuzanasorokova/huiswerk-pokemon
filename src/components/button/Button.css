@@ -1,0 +1,9 @@
+button {
+    background: darkslateblue;
+    height: 50px;
+    width: 100px;
+    margin: 5px;
+    font-weight: bold;
+    font-size: large;
+    color: rgb(252, 191, 5);
+}
